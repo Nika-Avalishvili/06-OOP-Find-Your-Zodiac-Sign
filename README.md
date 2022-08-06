@@ -1,4 +1,4 @@
-# 6-OOP-Find-Your-Zodiac-Sign
+# 06-OOP-Find-Your-Zodiac-Sign
 
 
 Subject: Object Oriented Programming
